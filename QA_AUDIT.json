@@ -1,0 +1,25 @@
+{
+  "source_file": "Pasted text(16).txt",
+  "source_question_blocks_detected": 1045,
+  "compound_true_false_blocks_split": 3,
+  "interactive_cards_created_from_source": 1054,
+  "source_answered_cards": 1054,
+  "source_mcq_single_or_true_false": 949,
+  "source_mcq_multi": 4,
+  "source_written": 101,
+  "valid_existing_answered_questions_added": 854,
+  "existing_exact_duplicates_skipped": 553,
+  "final_questions": 1908,
+  "final_by_subject": {
+    "Toxicology": 517,
+    "Forensic Medicine": 459,
+    "Community Medicine": 698,
+    "Family Medicine": 234
+  },
+  "unanswered_final": 0,
+  "invalid_answer_keys_final": 0,
+  "source_markers_in_final_data": 0,
+  "pagination_present": false,
+  "analytics_present": false,
+  "external_ai_present": false
+}
